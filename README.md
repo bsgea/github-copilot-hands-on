@@ -12,6 +12,16 @@ This repository is designed to:
 
 ## What's Included
 
+This repository contains:
+
+- **[Labs](labs/)** - Hands-on exercises organized by programming language
+- **[Documentation](docs/)** - Comprehensive guides and workshop materials  
+- **[Code Structure](CODE_STRUCTURE.md)** - Repository organization and contribution guidelines
+
+For a detailed overview of the repository structure and how to navigate the codebase, see our [Code Structure Documentation](CODE_STRUCTURE.md).
+
+### Quick Links
+
 - [GitHub Copilot Hackathon](#github-copilot-hands-on)
   - [Pre-requisites](#pre-requisites)
 - [Labs](#labs)
