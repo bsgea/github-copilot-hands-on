@@ -79,6 +79,7 @@ extra_javascript:
 
 nav:
   - Home: index.md
+  - Code Structure: code-structure.md
   - Workshop Overview: workshop-overview.md
   - Train the Trainer: train-the-trainer.md
   - Model Comparison: model-comparison.md
